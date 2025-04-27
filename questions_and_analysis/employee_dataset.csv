@@ -1,0 +1,101 @@
+Employee ID,First Name,Last Name,Personal Email,Age,Gender,Marital Status,Job Title,Salary,Education Level,Home Owner,Car Owner,Commute Distance,Start Date,End Date,Region,Bike Purchase,Bike Satisfaction
+1084,Pat,smith,pat.smith@gmail.com,61,M,M,HR ,85000,PhD,Y,Y,1-2 Miles,2010-02-26,12/08/2017,Pacific,Y,5
+1031,CHRIS,williams,chris.williams@live.com,42,M,W,Analyst ,87000,High School,Y,Y,1-2 Miles,18-01-2000,2015-09-23,Europe,Y,4
+1057,chris,Williams,chris.williams@hotmail.com ,50,M,W,Manager,145000,Bachelors,N,Y,0 - 1 Miles,2002-05-26,03-01-2006,Pacific,Y,1
+1025,jordan,WILSON,jordan.wilson@company.com ,49,F,D, Engineer,60000,High School,N,N,2_5 Miles,01/07/2019,"Tuesday, 24, 2023",Asia,N,
+1017,John,brown,john.brown@outlook.com ,27,F,W,Professional ,147000,PhD,Y,N,1-2 Miles,07/03/2003,"Wednesday, 11, 2023",Asia,Y,2
+1024,Jane,Williams,jane.williams@gmail.com,48,M,W,Salesman,134000,PhD,N,N,2_5 Miles,"Tuesday, 08, 2011",11/30/2013,Pacific,N,
+1003,alex,brown, alex.brown@gmail.com,45,M,M,Director,72000,PhD,N,Y,10+ Miles,20-03-2015,Present,Americas,Y,5
+1028,taylor,Davis, taylor.davis@company.com,63,M,S,Director,46000,High School,Y,N,0-1 Miles,19-05-2020,05-04-2022,Americas,Y,3
+1029,JORDAN,Brown,jordan.brown@outlook.com,41,M,S,Analyst,56000,Masters,N,N,2_5 Miles,"Sunday, 05, 2010",2021-06-27,Africa,N,
+1014,Alex,MILLER, alex.miller@company.com,59,F,S,Engineer,66000,Bachelors,N,N,5-10 Miles,03/15/2015,,Africa,Y,3
+1064,jordan,jones, jordan.jones@live.com,33,F,S,Clerical,128000,Masters,Y,N,10+ Miles,2015-07-14,08/30/2015,Americas,N,0
+1070,MORGAN,JOHNSON,morgan.johnson@live.com,30,F,S,Clerical,112000,Partial College,Y,N,5-10 Miles,"Friday, 15, 2011",Present,Pacific,N,
+1077,Morgan,MILLER, morgan.miller@outlook.com,49,F,D,Receptionist,41000,Partial College,Y,Y,2_5 Miles,"Wednesday, 23, 2015",2021-06-19,Europe,Y,5
+1015,taylor,Smith,taylor.smith@gmail.com,37,M,D, Directorate,96000,Bachelors,Y,N,1-2Miles,11/06/2003,"Sunday, 03, 2014",Americas,N,0
+1001,Casey,Anderson,casey.anderson@hotmail.com,64,M,S,Professional,66000,Bachelors,Y,N,2-5 Miles,2014-04-19,2019-08-16,Asia,Y,3
+1022,MORGAN,taylor, morgan.taylor@company.com,51,M,D,Directr,105000,High School,N,N,0-1 Miles,07/15/2003,16-03-2018,Asia,Y,2
+1004,JANE,brown,jane.brown@outlook.com,41,M,W,HR,121000,PhD,N,Y,2_5 Miles,2017-01-28,"Friday, 26, 2020",Europe,Y,2
+1030,jordan,TAYLOR,jordan.taylor@company.com,48,F,S,Clerical,60000,Masters,N,N,5-10 Miles,2007-06-29,2016-12-13,Africa,Y,5
+1062,JORDAN,Brown,jordan.brown@gmail.com,53,F,W, Analyst,47000,Bachelors,Y,N,2-5 Miles,"Thursday, 02, 2000","Friday, 10, 2002",Americas,Y,2
+1080,chris,Miller, chris.miller@gmail.com,44,M,S, Directorate,54000,Bachelors,N,N,0-1 Miles,09/09/2018,12/17/2020,Americas,N,0
+1036,JANE,Jones,jane.jones@company.com,55,F,M,HR,96000,Partial College,Y,Y,5-10 Miles,"Saturday, 08, 2011",02-08-2018,Europe,Y,2
+1012,Alex,SMITH,alex.smith@gmail.com ,37,M,M,Director,142000,Partial College,Y,Y,10+ Miles,2016-10-09,02/20/2021,Americas,N,0
+1085,Morgan,Miller, morgan.miller@outlook.com,65,F,W,Directorate,91000,High School,N,N,5-10 Miles,03/28/2003,2008-08-15,Africa,Y,4
+1045,CASEY,WILLIAMS,casey.williams@live.com ,43,M,S,Analyst ,115000,Partial College,Y,N,0-1 Miles,04/21/2000,06-04-2006,Asia,N,0
+1074,jordan,SMITH,jordan.smith@gmail.com ,23,F,D,Salesman,66000,Masters,Y,N,0 - 1 Miles,15-04-2004,2008-12-11,Africa,Y,4
+1006,Morgan,WILSON,morgan.wilson@company.com,47,M,W,HR ,36000,Bachelors,Y,N,2-5 Miles,"Monday, 09, 2007","Tuesday, 01, 2022",Americas,N,0
+1026,jane,Taylor,jane.taylor@gmail.com ,63,F,M,Engineer ,73000,High School,Y,N,1-2Miles,30-05-2011,"Wednesday, 25, 2016",Europe,Y,3
+1078,PAT,jones,pat.jones@hotmail.com,41,M,W,Skilled Manual ,146000,PhD,Y,N,1-2Miles,"Saturday, 07, 2012",02/20/2017,Africa,Y,3
+1075,Taylor,taylor, taylor.taylor@live.com,28,F,M,Salesman,131000,Masters,Y,N,0 - 1 Miles,08/01/2018,Present,Asia,Y,1
+1063,Pat,Williams,pat.williams@outlook.com,31,F,M,Directorate,121000,PhD,Y,N,2-5 Miles,"Friday, 19, 2018",2020-03-31,Europe,Y,1
+1066,jordan,WILSON,jordan.wilson@company.com ,55,M,S,Accountant ,111000,High School,Y,N,1-2Miles,"Thursday, 10, 2005",,Americas,N,0
+1002,Casey,Williams, casey.williams@outlook.com,38,M,M, Accountant,111000,Partial College,Y,Y,1-2 Miles,2004-09-16,"Friday, 26, 2020",Asia,Y,2
+1019,JANE,SMITH,jane.smith@hotmail.com,31,F,S, Salesman,83000,Bachelors,Y,Y,1-2Miles,"Saturday, 24, 2007",11-04-2010,Americas,Y,4
+1049,Jamie,brown, jamie.brown@hotmail.com,58,F,S,Manager ,46000,Partial College,N,N,0-1 Miles,07/17/2005,"Monday, 02, 2023",Europe,Y,2
+1037,john,smith,john.smith@outlook.com,31,F,S, Director,134000,Masters,Y,N,0 - 1 Miles,2008-03-01,"Tuesday, 04, 2019",Asia,N,0
+1079,pat,taylor,pat.taylor@hotmail.com ,58,M,D,Analyst,46000,High School,Y,Y,1-2 Miles,"Saturday, 23, 2019",2021-09-03,Pacific,N,0
+1007,JAMIE,Miller, jamie.miller@hotmail.com,46,M,W,Skilled Manual ,94000,Bachelors,N,Y,0-1 Miles,31-03-2008,11-11-2008,Asia,N,
+1037,john,smith,john.smith@outlook.com,31,F,S, Director,134000,Masters,Y,N,0 - 1 Miles,2008-03-01,"Tuesday, 04, 2019",Asia,N,0
+1059,Taylor,Davis, taylor.davis@live.com,22,F,D,Receptionist,79000,Masters,Y,Y,5-10 Miles,2016-01-24,"Monday, 24, 2021",Americas,N,
+1011,PAT,Smith,pat.smith@company.com,64,F,W,Clerical ,57000,Partial College,Y,N,0-1 Miles,"Monday, 16, 2018",12/15/2023,Americas,N,0
+1013,jamie,Brown,jamie.brown@live.com ,35,F,S,Professional ,80000,High School,Y,N,0 - 1 Miles,2004-08-22,09-06-2023,Americas,Y,3
+1054,john,johnson,john.johnson@outlook.com,27,F,S, Skilled Manual,142000,Masters,Y,Y,0-1 Miles,10/29/2005,"Friday, 15, 2019",Africa,N,
+1028,taylor,Davis, taylor.davis@company.com,63,M,S,Director,46000,High School,Y,N,0-1 Miles,19-05-2020,05-04-2022,Americas,Y,3
+1055,Morgan,Williams,morgan.williams@outlook.com,33,F,M,HR,89000,Masters,Y,Y,10+ Miles,2007-06-06,12/06/2011,Pacific,N,0
+1068,Chris,miller,chris.miller@outlook.com ,55,M,S,Analyst,83000,High School,N,Y,2-5 Miles,05/23/2014,Present,Europe,N,
+1033,CHRIS,JOHNSON,chris.johnson@company.com ,48,F,M,Clerical,75000,High School,Y,Y,1-2 Miles,2016-12-20,"Thursday, 15, 2021",Asia,N,
+1020,JAMIE,WILSON, jamie.wilson@live.com,53,M,M,Directr ,34000,PhD,Y,Y,1-2 Miles,12/23/2007,09/07/2020,Asia,Y,5
+1027,morgan,Brown, morgan.brown@gmail.com,57,F,W,Analyst ,115000,Partial College,N,Y,2_5 Miles,2000-03-13,2016-10-11,Americas,N,
+1061,JORDAN,Wilson,jordan.wilson@hotmail.com,45,F,S,Clerical ,117000,Partial College,N,N,2-5 Miles,09/08/2014,2014-12-29,Africa,N,
+1056,TAYLOR,Wilson,taylor.wilson@gmail.com,55,M,S,Clerical ,117000,Bachelors,N,N,0-1 Miles,05-02-2002,"Wednesday, 13, 2018",Americas,Y,4
+1010,PAT,Williams, pat.williams@company.com,52,F,W,Clerical,66000,PhD,N,Y,5-10 Miles,2004-02-13,2013-06-21,Pacific,N,
+1054,john,johnson,john.johnson@outlook.com,27,F,S, Skilled Manual,142000,Masters,Y,Y,0-1 Miles,10/29/2005,"Friday, 15, 2019",Africa,N,
+1018,JAMIE,TAYLOR, jamie.taylor@company.com,42,M,S, Salesman,39000,High School,N,N,1-2 Miles,05-08-2010,06-10-2021,Americas,Y,4
+1060,Casey,taylor, casey.taylor@company.com,45,F,W,Manager ,142000,High School,Y,Y,2-5 Miles,2006-05-28,2021-06-09,Americas,N,
+1058,casey,smith, casey.smith@hotmail.com,55,M,S,Salesman,87000,Masters,Y,N,2_5 Miles,14-07-2017,04/02/2022,Asia,Y,3
+1042,ALEX,Miller,alex.miller@gmail.com ,21,M,S,Directr,123000,Partial College,Y,N,2_5 Miles,01-04-2020,02/02/2022,Europe,Y,5
+1065,chris,williams, chris.williams@company.com,56,F,S, HR,108000,PhD,Y,Y,1-2Miles,20-12-2003,"Sunday, 19, 2006",Europe,Y,3
+1046,jordan,TAYLOR,jordan.taylor@live.com ,58,F,W,Accountant ,70000,Masters,N,N,10+ Miles,2016-10-03,"Thursday, 23, 2021",Asia,N,
+1049,Jamie,brown, jamie.brown@hotmail.com,58,F,S,Manager ,46000,Partial College,N,N,0-1 Miles,07/17/2005,"Monday, 02, 2023",Europe,Y,2
+1009,JORDAN,Williams, jordan.williams@outlook.com,29,M,W, Receptionist,81000,Partial College,Y,Y,5-10 Miles,"Thursday, 26, 2017","Monday, 08, 2023",Europe,Y,3
+1072,Jordan,williams, jordan.williams@outlook.com,27,F,S, Analyst,80000,Bachelors,N,Y,1-2Miles,11/11/2014,17-09-2017,Asia,N,0
+1057,chris,Williams,chris.williams@hotmail.com ,50,M,W,Manager,145000,Bachelors,N,Y,0 - 1 Miles,2002-05-26,03-01-2006,Pacific,Y,1
+1081,JOHN,Jones, john.jones@outlook.com,27,F,W,Skilled Manual ,120000,Bachelors,Y,N,2-5 Miles,09/13/2017,01-05-2023,Africa,N,0
+1067,Taylor,Smith,taylor.smith@gmail.com ,60,F,M,Directorate,130000,PhD,N,Y,0-1 Miles,"Saturday, 20, 2019",2020-01-25,Europe,N,
+1045,CASEY,WILLIAMS,casey.williams@live.com ,43,M,S,Analyst ,115000,Partial College,Y,N,0-1 Miles,04/21/2000,06-04-2006,Asia,N,0
+1081,JOHN,Jones, john.jones@outlook.com,27,F,W,Skilled Manual ,120000,Bachelors,Y,N,2-5 Miles,09/13/2017,01-05-2023,Africa,N,0
+1051,Jamie,Williams, jamie.williams@hotmail.com,23,M,W,Accountant ,73000,Masters,Y,N,1-2 Miles,01/20/2000,01-09-2015,Pacific,Y,3
+1053,JANE,ANDERSON,jane.anderson@hotmail.com,27,M,S,Salesman ,146000,PhD,N,N,0-1 Miles,07/29/2014,27-11-2020,Pacific,N,
+1067,Taylor,Smith,taylor.smith@gmail.com ,60,F,M,Directorate,130000,PhD,N,Y,0-1 Miles,"Saturday, 20, 2019",2020-01-25,Europe,N,
+1041,Alex,Miller, alex.miller@hotmail.com,37,F,W,Engineer ,51000,Bachelors,Y,Y,1-2 Miles,06-07-2019,"Thursday, 04, 2020",Asia,N,
+1071,JORDAN,Anderson,jordan.anderson@company.com ,65,M,W, Directorate,56000,PhD,N,N,10+ Miles,2004-09-02,2004-12-18,Europe,N,
+1047,jamie,Johnson, jamie.johnson@gmail.com,49,F,D, HR,68000,Bachelors,Y,N,10+ Miles,2002-08-19,2010-06-21,Africa,N,
+1069,Morgan,Johnson,morgan.johnson@hotmail.com,24,M,S, Skilled Manual,126000,Bachelors,N,N,0-1 Miles,04/08/2005,01/25/2016,Pacific,N,
+1070,MORGAN,JOHNSON,morgan.johnson@live.com,30,F,S,Clerical,112000,Partial College,Y,N,5-10 Miles,"Friday, 15, 2011",Present,Pacific,N,
+1082,Alex,Davis,alex.davis@company.com,64,F,M,Analyst ,116000,Bachelors,N,N,2-5 Miles,15-03-2002,04/06/2018,Asia,Y,2
+1059,Taylor,Davis, taylor.davis@live.com,22,F,D,Receptionist,79000,Masters,Y,Y,5-10 Miles,2016-01-24,"Monday, 24, 2021",Americas,N,
+1034,John,johnson,john.johnson@gmail.com ,60,M,S,Directorate ,135000,High School,N,N,0 - 1 Miles,"Saturday, 02, 2006",05/25/2011,Americas,N,
+1039,Pat,WILLIAMS,pat.williams@hotmail.com,24,F,S, HR,144000,PhD,N,N,10+ Miles,"Friday, 18, 2017",2018-11-08,Asia,N,
+1052,ALEX,taylor, alex.taylor@hotmail.com,65,F,W, Directorate,65000,PhD,N,N,5-10 Miles,"Saturday, 30, 2017",,Pacific,Y,2
+1043,ALEX,WILSON,alex.wilson@gmail.com,63,F,M, Analyst,106000,Masters,Y,N,2_5 Miles,2001-02-21,Present,Americas,N,0
+1005,taylor,Miller,taylor.miller@live.com ,25,M,S, Directr,89000,High School,N,Y,2_5 Miles,24-10-2003,08-07-2010,Americas,N,
+1068,Chris,miller,chris.miller@outlook.com ,55,M,S,Analyst,83000,High School,N,Y,2-5 Miles,05/23/2014,Present,Europe,N,
+1040,PAT,taylor,pat.taylor@company.com ,61,M,S,Engineer ,91000,PhD,Y,N,1-2Miles,04/13/2006,"Saturday, 31, 2019",Pacific,Y,2
+1038,Chris,TAYLOR,chris.taylor@live.com,52,F,D,Analyst ,118000,Masters,Y,N,0-1 Miles,06-03-2017,"Wednesday, 25, 2021",Asia,Y,3
+1021,alex,brown,alex.brown@gmail.com,34,F,M,Skilled Manual,148000,Bachelors,N,Y,1-2 Miles,30-03-2012,2022-03-18,Americas,N,
+1032,CASEY,BROWN,casey.brown@outlook.com ,25,F,M,Manager ,148000,Partial College,Y,Y,0-1 Miles,04/05/2014,29-03-2015,Asia,Y,4
+1064,jordan,jones, jordan.jones@live.com,33,F,S,Clerical,128000,Masters,Y,N,10+ Miles,2015-07-14,08/30/2015,Americas,N,0
+1048,ALEX,Wilson,alex.wilson@gmail.com ,64,F,S,Director ,109000,Bachelors,Y,Y,1-2Miles,06/29/2008,01/20/2018,Americas,Y,3
+1039,Pat,WILLIAMS,pat.williams@hotmail.com,24,F,S, HR,144000,PhD,N,N,10+ Miles,"Friday, 18, 2017",2018-11-08,Asia,N,
+1085,Morgan,Miller, morgan.miller@outlook.com,65,F,W,Directorate,91000,High School,N,N,5-10 Miles,03/28/2003,2008-08-15,Africa,Y,4
+1050,john,MILLER,john.miller@hotmail.com,48,M,S, Directr,52000,Bachelors,Y,Y,0-1 Miles,02-09-2018,23-01-2022,Europe,N,
+1035,Alex,DAVIS, alex.davis@company.com,61,F,D,HR,139000,Partial College,Y,Y,1-2 Miles,07/18/2002,05/31/2005,Pacific,N,
+1008,Jordan,Davis,jordan.davis@live.com ,27,M,W,HR ,106000,Partial College,Y,N,1-2Miles,04/23/2020,2023-09-10,Asia,N,
+1076,chris,Jones,chris.jones@company.com,57,M,D, Salesman,128000,High School,Y,N,1-2 Miles,2012-06-29,"Sunday, 16, 2014",Africa,N,
+1083,taylor,Jones,taylor.jones@outlook.com ,42,F,W,Analyst,30000,PhD,N,Y,2_5 Miles,2005-11-19,,Americas,N,
+1044,PAT,MILLER,pat.miller@hotmail.com ,35,M,D, Directorate,65000,Masters,N,Y,2_5 Miles,2015-12-22,,Europe,N,
+1023,JAMIE,wilson, jamie.wilson@outlook.com,36,M,D, Directr,95000,PhD,Y,N,1-2 Miles,04/16/2016,09-06-2016,Asia,Y,3
+1073,PAT,williams,pat.williams@hotmail.com ,27,F,S,Director,42000,PhD,Y,Y,2_5 Miles,"Wednesday, 29, 2013",08-05-2018,Americas,N,0
+1016,PAT,Johnson,pat.johnson@company.com,22,M,D,Engineer,68000,Masters,N,Y,1-2Miles,17-06-2019,2022-03-30,Europe,N,0
+1041,Alex,Miller, alex.miller@hotmail.com,37,F,W,Engineer ,51000,Bachelors,Y,Y,1-2 Miles,06-07-2019,"Thursday, 04, 2020",Asia,N,
